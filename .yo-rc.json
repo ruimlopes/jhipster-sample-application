@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.ruiml.jhipster.application",
+    "packageFolder": "io/ruiml/jhipster/application",
+    "serverPort": 8081,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "ZGNlMmJkYjU0NGVkNDBkZmEzNmEwMDU2ZmU5Mjc2YjQ4ODkyNTc1NWI2ZmQyMWM0YjNiZmJmNDAzMmFlZTM4ODc3Yzg3Y2FkZjI5YjIzNjhhODkyNzYyNjhhMDE2NzY2M2VlYTQ5ODhiMzVhY2ZmZjU0YTkzZTBkZGNlMjAyYWU=",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "ruimlopes",
+  "repository-name": "jhipster-sample-application"
+}
